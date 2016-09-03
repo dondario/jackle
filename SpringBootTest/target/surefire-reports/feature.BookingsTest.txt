@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: feature.BookingsTest
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 30, Time elapsed: 0.046 sec - in feature.BookingsTest

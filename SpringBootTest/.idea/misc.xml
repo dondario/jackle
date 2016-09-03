@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="$use-local-dynamoDB$" id="Add" />
+    <OptionsSetting value="$use-local-dynamoDB$" id="Remove" />
+    <OptionsSetting value="$use-local-dynamoDB$" id="Checkout" />
+    <OptionsSetting value="$use-local-dynamoDB$" id="Update" />
+    <OptionsSetting value="$use-local-dynamoDB$" id="Status" />
+    <OptionsSetting value="$use-local-dynamoDB$" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="$use-local-dynamoDB$" jdk-15="$use-local-dynamoDB$" project-jdk-name="1.8 (71)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
